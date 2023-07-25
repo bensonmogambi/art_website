@@ -53,5 +53,5 @@ Feel free to contact me at mogambibenson2@email.com for any questions or collabo
 
 ## Acknowledgments
 - I would like to thank my family and friends for their constant support and encouragement.
-- Special thanks to [name of someone who helped with the website design or content].
+- Special thanks to [ ].
 
